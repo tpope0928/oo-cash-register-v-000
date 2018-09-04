@@ -1,5 +1,6 @@
-Class Register
+Class CashRegister
 
+  attr_accessor 
 
 
 
